@@ -31,7 +31,7 @@ PalletTown_Text_RivalsHouse::
 
 PalletTown_Text_TownSign::
     .string "PALLET TOWN\n"
-    .string "Shades of your journey await!$"
+    .string "Welcome home, Red!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
     .string "OAK: Ah, {PLAYER}!\n"
